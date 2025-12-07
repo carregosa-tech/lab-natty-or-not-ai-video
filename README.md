@@ -71,4 +71,7 @@ Este projeto mostra como é possível produzir vídeos completos apenas com ferr
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 🎬 Vídeo do Projeto
+Assista ao vídeo completo aqui: [Clique para ver](GENERATIVE-AI)
+
 
